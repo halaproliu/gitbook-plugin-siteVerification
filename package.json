@@ -1,0 +1,35 @@
+{
+  "name": "gitbook-plugin-siteverification",
+  "version": "0.0.2",
+  "description": "baidu and google spider verifycation(百度搜索验证和谷歌搜索验证)",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaproliu/gitbook-plugin-siteVerification.git"
+  },
+  "keywords": [
+    "site-verifycation",
+    "site",
+    "baidu",
+    "google",
+    "search",
+    "百度",
+    "谷歌",
+    "搜索"
+  ],
+  "author": "halapro.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halaproliu/gitbook-plugin-siteVerification/issues"
+  },
+  "homepage": "https://github.com/halaproliu/gitbook-plugin-siteVerification#readme",
+  "dependencies": {
+    "gitbook-tester": "^1.4.3"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-siteverification",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "baidu and google spider verifycation(百度搜索验证和谷歌搜索验证)",
   "main": "index.js",
   "engines": {

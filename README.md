@@ -11,4 +11,13 @@ example:
     "google": <google-site-verification>
   }
 }
+
+// or
+
+"pluginsConfig": {
+  "siteVerification": {
+    "baidu": ['', ''],
+    "google": <google-site-verification>
+  }
+}
 ```
